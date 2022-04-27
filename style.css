@@ -1,0 +1,19 @@
+.header:hover {
+    color: rebeccapurple;
+}
+
+.header {
+    color: steelblue;
+}
+
+/* .google-link:link {
+    color: bisque;
+}
+
+.google-link:visited {
+    color: royalblue;
+} */
+
+.header + a {
+    color: red;
+}
